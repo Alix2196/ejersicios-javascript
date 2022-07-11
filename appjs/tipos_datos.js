@@ -4,7 +4,7 @@
 
 var Nombre = "Alix";
 var Genero_f = true;
-var age=25;
+var age=25.5;
 let fecha = new Date("1996/09/21");
 
 fecha;
