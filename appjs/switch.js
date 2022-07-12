@@ -45,6 +45,8 @@ switch (edad ) {
     default:
         console.log("No esta dentro de los casos mencionados (default)");
         break;
+        
 }
+
 
 
